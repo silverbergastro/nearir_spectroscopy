@@ -1,0 +1,35 @@
+
+Jun  5 16:34 [AWI0005x3s_xtc_20171104_2massweighted_merged_IRAF]: 
+    center      cont      flux       eqw      core     gfwhm     lfwhm
+  5802.262 6.387E-16 1.221E-15     -1.91
+  5802.918 6.426E-16 1.029E-15      -1.6
+
+Jun  6  8:28 [AWI0005x3s_xtc_20171104_2massweighted_merged_IRAF]: 
+  2.169564 6.363E-16 6.322E-19 -9.941E-4
+  2.166422 6.404E-16 3.262E-19 -5.095E-4
+  2.166978 6.386E-16 4.057E-19 -6.350E-4
+  2.166392 6.412E-16 2.999E-19 -4.678E-4
+
+Jun  6  8:36 [AWI0005x3s_xtc_20171104_2massweighted_merged_IRAF]: 
+    center      cont      flux       eqw      core     gfwhm     lfwhm
+  2.166858 6.409E-16 3.292E-19 -5.136E-4
+
+Jun  6  8:40 [AWI0005x3s_xtc_20171104_2massweighted_merged_IRAF]: 
+   2.16721 6.409E-16 3.192E-19 -4.973E-4
+  2.166613 6.440E-16 2.827E-19 -4.389E-4
+    center      cont      flux       eqw      core     gfwhm     lfwhm
+ -3.518635 -9.90E-15 4.643E-14     INDEF 4.250E-17     1026.        0.
+   2.16663 6.437E-16 2.737E-19 -4.252E-4 5.621E-17  0.004575        0.
+  2.166635 6.435E-16 2.765E-19 -4.298E-4 5.638E-17  0.004608        0.
+  2.166677 6.433E-16 2.779E-19 -4.320E-4 5.641E-17  0.004628        0.
+  2.166685 6.431E-16 2.803E-19 -4.359E-4 5.662E-17  0.004651        0.
+  2.166757 6.463E-16 2.604E-19 -4.029E-4 5.243E-17  0.004666        0.
+
+Jun  6  9:13 [AWI0005x3s_xtc_20171104_2massweighted_merged_IRAF]: 
+    center      cont      flux       eqw      core     gfwhm     lfwhm
+  2.166659 6.413E-16 2.998E-19 -4.675E-4 5.768E-17  0.004883        0.
+
+Jun  7 14:38 [AWI0005x3s_xtc_20171104_2massweighted_merged_IRAF]: 
+avg:  6.458E-16  rms:  1.414E-17   snr:    45.69
+avg:  6.389E-16  rms:  9.657E-18   snr:    66.16
+avg:  6.392E-16  rms:  9.537E-18   snr:    67.02
