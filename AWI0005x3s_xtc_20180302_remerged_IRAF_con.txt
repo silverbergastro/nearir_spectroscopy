@@ -1,37 +1,3 @@
-BITPIX  =                    8  /  8-bit ASCII characters                       
-NAXIS   =                    1  /  Number of Image Dimensions                   
-NAXIS1  =                 6718  /  Length of axis                               
-ORIGIN  = 'NOAO-IRAF: WTEXTIMAGE'  /
-IRAF-MAX=                   0.  /  Max image pixel (out of date)                
-IRAF-MIN=                   0.  /  Min image pixel (out of date)                
-IRAF-B/P=                   32  /  Image bits per pixel                         
-IRAFTYPE= 'REAL FLOATING     '  /  Image datatype                              
-OBJECT  = '                  '  /                                              
-FILENAME= 'AWI0005X3S_XTC_20180302_REMERGED_IRAF_CON'  /
-FORMAT  = '5G14.7            '  /  Text line format                            
-EXTEND  =                    F / File may contain extensions                    
-ORIGIN  = 'NOAO-IRAF FITS Image Kernel July 2003' / FITS file originator        
-DATE    = '2018-06-11T14:30:37' / Date FITS file was generated                  
-IRAF-TLM= '2018-06-11T13:49:57' / Time of last modification                     
-APNUM1  = '1 1     '                                                            
-WCSDIM  =                    1                                                  
-CTYPE1  = 'LINEAR  '                                                            
-CRVAL1  =    0.822917500000001                                                  
-CRPIX1  =                   1.                                                  
-CDELT1  =  2.44561336906360E-4                                                  
-CD1_1   =  2.44561336906360E-4                                                  
-LTM1_1  =                   1.                                                  
-WAT0_001= 'system=equispec'                                                     
-WAT1_001= 'wtype=linear'                                                        
-DC-FLAG =                    0                                                  
-CA-FLAG =                    0                                                  
-EX-FLAG =                    0                                                  
-SFIT    = '1       '                                                            
-SFITB   = '1       '                                                            
-END                                                                             
-                                                                                
-                                                                                
-                                                                                
 0.822917500000002  -8.921427E-15
 0.823162061336909  -8.805124E-15
 0.823406622673815  -8.689653E-15
